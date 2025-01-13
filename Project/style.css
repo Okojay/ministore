@@ -1,0 +1,24 @@
+body{
+  background-color: #F8F9FA;
+}
+/* .mynav{
+  margin-left: 30%;
+} */
+.mynav a{
+  margin: 10px;
+}
+ul li a{
+  color: dodgerblue;
+}
+li a:hover{
+  color: dodgerblue;
+}
+.nav-link:hover{
+  color: dodgerblue;
+}
+.carousel-control-prev-icon{
+  filter: invert(50%) sepia(100%) saturate(1000%) hue-rotate(180deg);
+}
+.carousel-control-next-icon{
+  filter: invert(50%) sepia(100%) saturate(1000%) hue-rotate(180deg);
+}
